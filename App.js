@@ -15,7 +15,7 @@ export default function App() {
  
   return (
     <View style={styles.container}>
-      <Text style={styles.texto}>Entrada de dados</Text>
+      <Text style={styles.texto}>Entrada de dados!</Text>
       <TextInput
         style={styles.input}
         placeholder='Digite seu nome'
